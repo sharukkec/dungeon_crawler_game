@@ -1,4 +1,4 @@
-Overview
+Overview:
     This project is an attempt to create an old-school JRPG (Japanese Role-Playing Game) with a combination of real-time exploration and a turn-based combat system. The game initiates the turn-based combat mode when a collision occurs between the player and an enemy. More information about Classes, methods and functions you'll find in code comments.
 
 How to Run
