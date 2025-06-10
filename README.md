@@ -1,15 +1,15 @@
 Overview:
     This project is an attempt to create an old-school JRPG (Japanese Role-Playing Game) with a combination of real-time exploration and a turn-based combat system. The game initiates the turn-based combat mode when a collision occurs between the player and an enemy. More information about Classes, methods and functions you'll find in code comments.
 
-How to Run
+How to Run:
     To run the game, execute the main.py file. Additionally, the tests for the game can be executed using the pytest_style.py file.
 
-Controls
+Controls:
     To move your character use either 'WASD' or arrow buttons. 
     To use healing potion press 'space' button.
     While in combat, use LMB to perform a light attack and RMB to execute a heavy attack (requires maximum energy) 
 
-File Structure
+File Structure:
     The game is organized into several Python files, each responsible for specific functionalities:
 
     1) battle.py: Displays the battle interface and contains the logic for turn-based combat.
